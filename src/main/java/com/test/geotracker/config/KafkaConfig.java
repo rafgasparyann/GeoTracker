@@ -10,8 +10,6 @@ import org.springframework.kafka.core.ProducerFactory;
 
 import java.util.Map;
 
-
-
 @Configuration
 public class KafkaConfig {
 
